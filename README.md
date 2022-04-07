@@ -6,7 +6,8 @@ Files will be uploaded here after the deadline. Meanwhile you can enjoy the scre
 ## Installation
 
 Just download the files and place them into a folder of a web-server.
-Can also be ran locally, no external programs required.
+
+Can also be ran locally, no external programs required (Apart from a web browser with javascript enabled, uses bootstrap so you will need internet connection).
 
 ## Screenshots
 
