@@ -6,6 +6,7 @@ Files will be uploaded here after the deadline. Meanwhile you can enjoy the scre
 ## Installation
 
 Just download the files and place them into a folder of a web-server.
+Can also be ran locally, no external programs required.
 
 ## Screenshots
 
