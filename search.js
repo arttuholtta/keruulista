@@ -3,11 +3,12 @@ if(window.location.protocol == "http:") {
     oUrl = oUrl.replace(/^http:\/\//i, 'https://')
     window.location.replace(oUrl)
 }
-
+//Replace 'REPLACE_ME' with your json url. See example.json for refrence when creating your own json files.
+var jsonUrl = 'REPLACE_ME'
 var orders = []
 orders = JSON.parse(sessionStorage.getItem("orders"))
 if (orders == null) {
-    fetch("https://www.cc.puv.fi/~asa/json/project.json")
+    fetch(jsonUrl)
         .then(res => res.json())
         .then(res => orders = res)
 }

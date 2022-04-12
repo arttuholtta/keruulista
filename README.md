@@ -1,7 +1,7 @@
 # Keruulista
 
 Keruulista project for VAMK Johdatus ohjelmointiin course.
-Files will be uploaded here after the deadline. Meanwhile you can enjoy the screenshots.
+
 
 ## Installation
 
