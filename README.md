@@ -21,7 +21,7 @@ Order viewing page:
 ![Login screen of keruulista](screenshots/orderpage.png)
 
 ## To-Do
-(These are the things I would do if I ever come back to this project, not that likely though. No new functionality planned.)
+(These are the things I'd do if I ever came back to this project, not that likely though. No new functionality planned.)
 - Try to use bootstrap only -> getting rid of style.css
 - Try to compress js as much as possible, combine and compress functions (if possible).
 - Try to find a more elegant way of showing the error message in search
