@@ -1,0 +1,58 @@
+html,
+body {
+    min-height: 100vh;
+}
+
+.loginElement {
+    display: block;
+    left: 50%;
+    margin: auto;
+}
+
+#loginForm,
+#searchForm {
+    margin: auto;
+    width: 50%;
+}
+
+button {
+    margin: 5px;
+}
+
+.row {
+    background-color: rgb(255, 255, 255);
+    padding: 2%;
+}
+
+table {
+    color: black;
+    width: 50vw;
+}
+
+.order {
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+
+#searchTitle {
+    position: relative;
+
+    left: 20px;
+}
+
+th {
+    width: 25%;
+}
+
+td {
+    width: 75%;
+}
+
+textarea {
+    resize: none;
+}
+
+.container {
+    position: relative;
+}
