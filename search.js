@@ -3,7 +3,7 @@ if(window.location.protocol == "http:") {
     oUrl = oUrl.replace(/^http:\/\//i, 'https://')
     window.location.replace(oUrl)
 }
-//Replace 'REPLACE_ME' with your json url
+//Replace 'REPLACE_ME' with your json url. See example.json for refrence when creating your own json files.
 var jsonUrl = 'REPLACE_ME'
 var orders = []
 orders = JSON.parse(sessionStorage.getItem("orders"))
